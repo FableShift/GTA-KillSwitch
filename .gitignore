@@ -1,0 +1,30 @@
+# Build and publication artifacts
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.res
+
+# Local user configuration
+config.json
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary & log files
+*.log
+*.tmp
